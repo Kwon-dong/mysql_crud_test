@@ -19,3 +19,12 @@
 # README.md 페이지 구성
 -- 7교시, 8교시, README.md 페이지 구성할 떄,
 -- 마크다운 문법을 익히기
+
+# ClassicModels 데이터를 대시보드에 구현
+
+## 주요 목표
+- 국가 별 고객수 막대그래프로 구현
+- 신용한도 분포를 히스토그램으로 구현
+
+[링크텍스트](https://mysqlcrudtest-dksr3zemqxywypebysdoeb.streamlit.app/)
+
