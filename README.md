@@ -38,7 +38,7 @@
 ![소비자분포](customers_by_country.png)
 
 - 매출액 분포
-![매출액분포](orde_amounts_distribution.png)
+![매출액분포](order_amounts_distribution.png)
 
 - 월 별 매출액 분포
 ![월별분포](orders_by_month.png)
