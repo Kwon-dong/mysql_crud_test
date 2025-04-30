@@ -12,5 +12,6 @@ missingno
 scipy
 statsmodels
 pymssql==2.3.2
-mysql-connector-python
+mysql-connector-python  # -> streamlit으로 배포 시 사용 못함 because, streamlit에서는 DB설정 한게 없음
+                        # 해결을 위해 sqlite3 사용해라
 python-dotenv
