@@ -7,6 +7,9 @@
 ### 구현을 완료한 Streamlit 대시보드
 [Streamlit](https://mysqlcrudtest-dksr3zemqxywypebysdoeb.streamlit.app/)
 
+### 실행 동작 예시
+![실행예시](animation.gif)
+
 ### 구현 이미지 예시
 
 - 메인 페이지
@@ -23,6 +26,3 @@
 
 - 상품 가격 분포
 ![가격분포](product_prices.png)
-
-- 실행 동작 예시
-![실행예시](animation.gif)
