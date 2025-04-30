@@ -30,4 +30,4 @@
 [Streamlit](https://mysqlcrudtest-dksr3zemqxywypebysdoeb.streamlit.app/)
 
 - 구현 예시 이미지
-![메인페이지](C:\Users\Admin\Desktop\main_page.png)
+![메인페이지](main_page.png)
